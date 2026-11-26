@@ -341,4 +341,4 @@ User merges the PR manually. Tell them to use **Squash and merge** (the PR title
 
 ---
 
-_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for the React Alicante workshop._
+_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for Philomath Academy workshops._

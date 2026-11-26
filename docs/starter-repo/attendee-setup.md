@@ -1,4 +1,4 @@
-# React Alicante Workshop — Attendee Setup
+# Philomath Academy Workshop — Attendee Setup
 
 It takes about half an hour, most of it waiting for installs and account
 confirmations.
@@ -121,24 +121,24 @@ Open a terminal in the folder where you keep your projects. Then fork and clone
 in one command:
 
 ```bash
-gh repo fork engineering-workshops/react-alicante-agentic-workflow --clone
+gh repo fork engineering-workshops/agentic-workflow-workshop --clone
 ```
 
 Or click **Fork** on
-[github.com/engineering-workshops/react-alicante-agentic-workflow](https://github.com/engineering-workshops/react-alicante-agentic-workflow).
+[github.com/engineering-workshops/agentic-workflow-workshop](https://github.com/engineering-workshops/agentic-workflow-workshop).
 If the **Owner** dropdown shows more than one option, pick your personal
 account, not an organization. Untick **Copy the `dev` branch only**, so your
 fork also gets the `main` branch. Then clone your fork:
 
 ```bash
-git clone https://github.com/<your-username>/react-alicante-agentic-workflow.git
+git clone https://github.com/<your-username>/agentic-workflow-workshop.git
 ```
 
 Then, inside the folder, install the project's dependencies. This also installs
 the Supabase CLI, so you do not need a separate install:
 
 ```bash
-cd react-alicante-agentic-workflow
+cd agentic-workflow-workshop
 pnpm install
 ```
 
@@ -170,8 +170,8 @@ does this, so every account has two free project slots for the two databases:
 QA and Production.
 
 1. Make your alias. An alias is a second address that delivers to your normal
-   inbox. Add `+alicante` before the `@`: `example@gmail.com` becomes
-   `example+alicante@gmail.com`.
+   inbox. Add `+philomath` before the `@`: `example@gmail.com` becomes
+   `example+philomath@gmail.com`.
 2. Go to [supabase.com/dashboard/sign-up](https://supabase.com/dashboard/sign-up).
 3. Sign up with the alias and a password. Don't use "Continue with GitHub".
 4. Confirm your email.
@@ -183,7 +183,7 @@ QA and Production.
 Go to [supabase.com/dashboard/new](https://supabase.com/dashboard/new) and fill
 in the form:
 
-- **Name:** `React-Alicante-Workshop` (any name works)
+- **Name:** `Philomath-Workshop` (any name works)
 - **Type:** Educational
 - **Plan:** Free - $0/month
 

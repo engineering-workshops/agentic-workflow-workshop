@@ -8,7 +8,7 @@ A "👍 Like" button on each session page. Clicking it sends the session id to t
 
 The session page has a "👍 Like" button under the description. After a click, the button shows "Thanks!".
 
-![The session page with the Like button](https://raw.githubusercontent.com/engineering-workshops/react-alicante-agentic-workflow/dev/docs/starter-repo/tickets/images/like-button.png)
+![The session page with the Like button](https://raw.githubusercontent.com/engineering-workshops/agentic-workflow-workshop/dev/docs/starter-repo/tickets/images/like-button.png)
 
 It should look similar. The details are yours.
 

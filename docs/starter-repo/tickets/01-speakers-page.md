@@ -6,7 +6,7 @@ A new `/speakers` page listing every speaker with the session(s) they give. Each
 
 ## Expected result
 
-![The Speakers page](https://raw.githubusercontent.com/engineering-workshops/react-alicante-agentic-workflow/dev/docs/starter-repo/tickets/images/speakers-page.png)
+![The Speakers page](https://raw.githubusercontent.com/engineering-workshops/agentic-workflow-workshop/dev/docs/starter-repo/tickets/images/speakers-page.png)
 
 It should look similar. The details are yours.
 

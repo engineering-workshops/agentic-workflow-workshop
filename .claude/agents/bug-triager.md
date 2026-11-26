@@ -134,4 +134,4 @@ Point to the relevant test file or suggest a new test case that would have caugh
 
 ---
 
-_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for the React Alicante workshop._
+_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for Philomath Academy workshops._

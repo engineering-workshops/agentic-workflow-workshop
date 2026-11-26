@@ -228,4 +228,4 @@ Wait for the user to confirm all PRs (theirs and Claude's) are open, then say:
 
 ---
 
-_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for the React Alicante workshop._
+_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for Philomath Academy workshops._

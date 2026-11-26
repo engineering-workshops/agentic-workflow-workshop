@@ -225,4 +225,4 @@ The skill handles: tagging, GitHub release, merging main back to dev.
 
 ---
 
-_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for the React Alicante workshop._
+_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for Philomath Academy workshops._

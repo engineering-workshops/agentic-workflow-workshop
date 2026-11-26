@@ -20,4 +20,4 @@ This rule assumes plain React state. With Redux or a similar store, the store ow
 
 ---
 
-_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for the React Alicante workshop._
+_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for Philomath Academy workshops._

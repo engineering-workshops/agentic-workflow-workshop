@@ -137,4 +137,4 @@ WCAG 2.1 AA accessibility reviewer for this repository — Next.js App Router an
 
 ---
 
-_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for the React Alicante workshop._
+_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for Philomath Academy workshops._

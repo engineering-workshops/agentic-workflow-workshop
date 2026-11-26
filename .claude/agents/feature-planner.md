@@ -113,4 +113,4 @@ This agent **plans and scopes** — it does not execute any skill itself, and do
 
 ---
 
-_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for the React Alicante workshop._
+_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for Philomath Academy workshops._

@@ -8,7 +8,7 @@ Every session gets a level (beginner, intermediate or advanced), stored in the d
 
 The session page shows the level as a second badge next to the track:
 
-![The session page with the level badge](https://raw.githubusercontent.com/engineering-workshops/react-alicante-agentic-workflow/dev/docs/starter-repo/tickets/images/session-level.png)
+![The session page with the level badge](https://raw.githubusercontent.com/engineering-workshops/agentic-workflow-workshop/dev/docs/starter-repo/tickets/images/session-level.png)
 
 It should look similar. The details are yours.
 

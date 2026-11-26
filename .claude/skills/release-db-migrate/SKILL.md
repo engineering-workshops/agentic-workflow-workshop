@@ -163,4 +163,4 @@ Tell them to check that the `●` is now on the QA row, and to share the output.
 
 ---
 
-_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for the React Alicante workshop._
+_Authored by Philomath Academy — Evangelia Mitsopoulou. Shared for Philomath Academy workshops._
